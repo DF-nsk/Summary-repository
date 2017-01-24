@@ -1,0 +1,9 @@
+D:\Rep\KeyBoardClick\KeyBoardClick\bin\Debug\KeyBoardClick.exe.config
+D:\Rep\KeyBoardClick\KeyBoardClick\bin\Debug\KeyBoardClick.exe
+D:\Rep\KeyBoardClick\KeyBoardClick\bin\Debug\KeyBoardClick.pdb
+D:\Rep\KeyBoardClick\KeyBoardClick\obj\Debug\KeyBoardClick.csprojResolveAssemblyReference.cache
+D:\Rep\KeyBoardClick\KeyBoardClick\obj\Debug\KeyBoardClick.Form1.resources
+D:\Rep\KeyBoardClick\KeyBoardClick\obj\Debug\KeyBoardClick.Properties.Resources.resources
+D:\Rep\KeyBoardClick\KeyBoardClick\obj\Debug\KeyBoardClick.csproj.GenerateResource.Cache
+D:\Rep\KeyBoardClick\KeyBoardClick\obj\Debug\KeyBoardClick.exe
+D:\Rep\KeyBoardClick\KeyBoardClick\obj\Debug\KeyBoardClick.pdb
