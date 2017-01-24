@@ -1,0 +1,6 @@
+D:\C#Prog2017\DelegatDemoStudent\DelegatDemoStudent\bin\Debug\DelegatDemoStudent.exe.config
+D:\C#Prog2017\DelegatDemoStudent\DelegatDemoStudent\bin\Debug\DelegatDemoStudent.exe
+D:\C#Prog2017\DelegatDemoStudent\DelegatDemoStudent\bin\Debug\DelegatDemoStudent.pdb
+D:\C#Prog2017\DelegatDemoStudent\DelegatDemoStudent\obj\Debug\DelegatDemoStudent.csprojResolveAssemblyReference.cache
+D:\C#Prog2017\DelegatDemoStudent\DelegatDemoStudent\obj\Debug\DelegatDemoStudent.exe
+D:\C#Prog2017\DelegatDemoStudent\DelegatDemoStudent\obj\Debug\DelegatDemoStudent.pdb
