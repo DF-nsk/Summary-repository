@@ -1,0 +1,9 @@
+D:\Rep\KeyBoardEvent\KeyBoardEvent\bin\Debug\KeyBoardEvent.exe.config
+D:\Rep\KeyBoardEvent\KeyBoardEvent\bin\Debug\KeyBoardEvent.exe
+D:\Rep\KeyBoardEvent\KeyBoardEvent\bin\Debug\KeyBoardEvent.pdb
+D:\Rep\KeyBoardEvent\KeyBoardEvent\obj\Debug\KeyBoardEvent.csprojResolveAssemblyReference.cache
+D:\Rep\KeyBoardEvent\KeyBoardEvent\obj\Debug\KeyBoardEvent.Form1.resources
+D:\Rep\KeyBoardEvent\KeyBoardEvent\obj\Debug\KeyBoardEvent.Properties.Resources.resources
+D:\Rep\KeyBoardEvent\KeyBoardEvent\obj\Debug\KeyBoardEvent.csproj.GenerateResource.Cache
+D:\Rep\KeyBoardEvent\KeyBoardEvent\obj\Debug\KeyBoardEvent.exe
+D:\Rep\KeyBoardEvent\KeyBoardEvent\obj\Debug\KeyBoardEvent.pdb
