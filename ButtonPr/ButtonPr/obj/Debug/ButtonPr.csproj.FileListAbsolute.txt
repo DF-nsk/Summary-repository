@@ -1,0 +1,9 @@
+D:\Rep\ButtonPr\ButtonPr\bin\Debug\ButtonPr.exe.config
+D:\Rep\ButtonPr\ButtonPr\bin\Debug\ButtonPr.exe
+D:\Rep\ButtonPr\ButtonPr\bin\Debug\ButtonPr.pdb
+D:\Rep\ButtonPr\ButtonPr\obj\Debug\ButtonPr.csprojResolveAssemblyReference.cache
+D:\Rep\ButtonPr\ButtonPr\obj\Debug\ButtonPr.Form1.resources
+D:\Rep\ButtonPr\ButtonPr\obj\Debug\ButtonPr.Properties.Resources.resources
+D:\Rep\ButtonPr\ButtonPr\obj\Debug\ButtonPr.csproj.GenerateResource.Cache
+D:\Rep\ButtonPr\ButtonPr\obj\Debug\ButtonPr.exe
+D:\Rep\ButtonPr\ButtonPr\obj\Debug\ButtonPr.pdb
