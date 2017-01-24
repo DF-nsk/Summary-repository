@@ -1,0 +1,6 @@
+D:\C#Prog2017\UniversalTable\UniversalTable\bin\Debug\UniversalTable.exe.config
+D:\C#Prog2017\UniversalTable\UniversalTable\bin\Debug\UniversalTable.exe
+D:\C#Prog2017\UniversalTable\UniversalTable\bin\Debug\UniversalTable.pdb
+D:\C#Prog2017\UniversalTable\UniversalTable\obj\Debug\UniversalTable.csprojResolveAssemblyReference.cache
+D:\C#Prog2017\UniversalTable\UniversalTable\obj\Debug\UniversalTable.exe
+D:\C#Prog2017\UniversalTable\UniversalTable\obj\Debug\UniversalTable.pdb
