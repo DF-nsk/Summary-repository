@@ -1,0 +1,9 @@
+D:\Rep\MouseXY\MouseXY\bin\Debug\MouseXY.exe.config
+D:\Rep\MouseXY\MouseXY\bin\Debug\MouseXY.exe
+D:\Rep\MouseXY\MouseXY\bin\Debug\MouseXY.pdb
+D:\Rep\MouseXY\MouseXY\obj\Debug\MouseXY.csprojResolveAssemblyReference.cache
+D:\Rep\MouseXY\MouseXY\obj\Debug\MouseXY.Form1.resources
+D:\Rep\MouseXY\MouseXY\obj\Debug\MouseXY.Properties.Resources.resources
+D:\Rep\MouseXY\MouseXY\obj\Debug\MouseXY.csproj.GenerateResource.Cache
+D:\Rep\MouseXY\MouseXY\obj\Debug\MouseXY.exe
+D:\Rep\MouseXY\MouseXY\obj\Debug\MouseXY.pdb
