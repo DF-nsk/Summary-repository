@@ -1,0 +1,7 @@
+D:\C#\Uvlekatelnoe_prog\4 Triangle\FirstConsoleApp\bin\Release\FirstConsoleApp.exe.config
+D:\C#\Uvlekatelnoe_prog\4 Triangle\FirstConsoleApp\bin\Release\FirstConsoleApp.exe
+D:\C#\Uvlekatelnoe_prog\4 Triangle\FirstConsoleApp\bin\Release\FirstConsoleApp.pdb
+D:\C#\Uvlekatelnoe_prog\4 Triangle\FirstConsoleApp\bin\Release\SmallBasicLibrary.dll
+D:\C#\Uvlekatelnoe_prog\4 Triangle\FirstConsoleApp\obj\Release\FirstConsoleApp.exe
+D:\C#\Uvlekatelnoe_prog\4 Triangle\FirstConsoleApp\obj\Release\FirstConsoleApp.pdb
+D:\C#\Uvlekatelnoe_prog\4 Triangle\FirstConsoleApp\obj\Release\FirstConsoleApp.csprojResolveAssemblyReference.cache
