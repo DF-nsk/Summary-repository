@@ -1,0 +1,11 @@
+D:\C#ProgRepoz\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\C#ProgRepoz\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\C#ProgRepoz\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\C#ProgRepoz\TextEditor\TextEditor\bin\Debug\TextEditorBL.dll
+D:\C#ProgRepoz\TextEditor\TextEditor\bin\Debug\TextEditorBL.pdb
+D:\C#ProgRepoz\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+D:\C#ProgRepoz\TextEditor\TextEditor\obj\Debug\TextEditor.MainForm.resources
+D:\C#ProgRepoz\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\C#ProgRepoz\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+D:\C#ProgRepoz\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\C#ProgRepoz\TextEditor\TextEditor\obj\Debug\TextEditor.pdb

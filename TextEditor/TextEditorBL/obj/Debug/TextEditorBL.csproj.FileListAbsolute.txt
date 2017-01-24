@@ -1,0 +1,5 @@
+D:\C#ProgRepoz\TextEditor\TextEditorBL\bin\Debug\TextEditorBL.dll
+D:\C#ProgRepoz\TextEditor\TextEditorBL\bin\Debug\TextEditorBL.pdb
+D:\C#ProgRepoz\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.csprojResolveAssemblyReference.cache
+D:\C#ProgRepoz\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.dll
+D:\C#ProgRepoz\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.pdb
