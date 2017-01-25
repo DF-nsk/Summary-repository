@@ -1,0 +1,6 @@
+D:\Rep\ConsoleBufer\ConsoleBufer\bin\Debug\ConsoleBufer.exe.config
+D:\Rep\ConsoleBufer\ConsoleBufer\bin\Debug\ConsoleBufer.exe
+D:\Rep\ConsoleBufer\ConsoleBufer\bin\Debug\ConsoleBufer.pdb
+D:\Rep\ConsoleBufer\ConsoleBufer\obj\Debug\ConsoleBufer.csprojResolveAssemblyReference.cache
+D:\Rep\ConsoleBufer\ConsoleBufer\obj\Debug\ConsoleBufer.exe
+D:\Rep\ConsoleBufer\ConsoleBufer\obj\Debug\ConsoleBufer.pdb
