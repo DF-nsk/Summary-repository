@@ -1,0 +1,8 @@
+D:\Programm\Корень\Корень\bin\Debug\Корень.exe.config
+D:\Programm\Корень\Корень\bin\Debug\Корень.exe
+D:\Programm\Корень\Корень\bin\Debug\Корень.pdb
+D:\Programm\Корень\Корень\obj\Debug\Корень.Form1.resources
+D:\Programm\Корень\Корень\obj\Debug\Корень.Properties.Resources.resources
+D:\Programm\Корень\Корень\obj\Debug\Корень.csproj.GenerateResource.Cache
+D:\Programm\Корень\Корень\obj\Debug\Корень.exe
+D:\Programm\Корень\Корень\obj\Debug\Корень.pdb
