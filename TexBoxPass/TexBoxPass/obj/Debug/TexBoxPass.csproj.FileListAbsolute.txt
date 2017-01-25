@@ -1,0 +1,8 @@
+E:\ProgRep\TexBoxPass\TexBoxPass\bin\Debug\TexBoxPass.exe.config
+E:\ProgRep\TexBoxPass\TexBoxPass\bin\Debug\TexBoxPass.exe
+E:\ProgRep\TexBoxPass\TexBoxPass\bin\Debug\TexBoxPass.pdb
+E:\ProgRep\TexBoxPass\TexBoxPass\obj\Debug\TexBoxPass.Form1.resources
+E:\ProgRep\TexBoxPass\TexBoxPass\obj\Debug\TexBoxPass.Properties.Resources.resources
+E:\ProgRep\TexBoxPass\TexBoxPass\obj\Debug\TexBoxPass.csproj.GenerateResource.Cache
+E:\ProgRep\TexBoxPass\TexBoxPass\obj\Debug\TexBoxPass.exe
+E:\ProgRep\TexBoxPass\TexBoxPass\obj\Debug\TexBoxPass.pdb
